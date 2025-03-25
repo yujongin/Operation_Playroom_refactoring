@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: c55a1a6dc211d9c46bb936f060bb0b5d
+  m_SerializeEntries:
+  - m_GUID: 0fd3c3c86dfe1744d8c57249e89c4323
+    m_Address: Swordman
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 190cb11855cfccf4aaf0d6de5a95d5d2
+    m_Address: King
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3914c805c98199540995a4dafe247dcb
+    m_Address: BuildingRed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c286c2307d1dd340a5582f2eb79b83d
+    m_Address: UnitData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc39d438e3d15745a725d545903a2ee
+    m_Address: BuildingDestroyEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40469bcefaafd0c4fa0f8a848b6fbd0c
+    m_Address: BuildingSmokeEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60f6d4bfc4da5014cbda251d40147045
+    m_Address: Archer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65db92258586b9741b1ff6f01d7edfe9
+    m_Address: BuildCompleteEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e02ae7fb3d27cf4f9dcd8543a2be3f3
+    m_Address: BuildingBlue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f3a8221ecf4ff04d93548ba274bb3b5
+    m_Address: Occupy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5a243cbaa5622949a7f3b6c186898d0
+    m_Address: ResourcePrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db0a8ef031523b8438278825bc4b2d01
+    m_Address: Test
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfdfa2209fab998478e33380cd0033d9
+    m_Address: MessagePopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e23974ff1be223e47b7af6f68f6b7861
+    m_Address: BuildingDamageEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebfee12ee9571f64a873674421cf006e
+    m_Address: PlayerTest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5f9ffefe911fd8947b58a4e7b821c608, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d53e2818f3ecc114bb443f770043f460, type: 2}
+    - {fileID: 11400000, guid: eeb2121750db90141ba02aa8ef89430b, type: 2}

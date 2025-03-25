@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7682430cb5c9ae34e807aa5e13a8f1af, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  soundClips:
+  - {fileID: 8300000, guid: 2f04bfb27d59b9749ada70a0bde19f26, type: 3}
+  - {fileID: 8300000, guid: 8959abb319c05d14b882691a35758732, type: 3}
+  - {fileID: 8300000, guid: 9e502f3847ead6b4d94bb5fa0dbd2ddd, type: 3}
+  - {fileID: 8300000, guid: b6e96b16776ccb848a7474208ffb21fe, type: 3}
+  - {fileID: 8300000, guid: 408bdb892897d644cac7a825ff26f2d1, type: 3}

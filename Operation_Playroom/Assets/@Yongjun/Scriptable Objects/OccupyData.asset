@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c602bc8341290040b479f29073127fa, type: 3}
+  m_Name: OccupyData
+  m_EditorClassIdentifier: 
+  buildingPrefabTeamRed: {fileID: 6421879673209478227, guid: 3914c805c98199540995a4dafe247dcb, type: 3}
+  buildingPrefabTeamBlue: {fileID: 4853673393836859384, guid: 6e02ae7fb3d27cf4f9dcd8543a2be3f3, type: 3}

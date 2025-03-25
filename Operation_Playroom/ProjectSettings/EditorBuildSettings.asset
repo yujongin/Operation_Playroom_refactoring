@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/@Heewon/Scenes/NetConnectScene.unity
+    guid: 12ca226e1d25316458227a670f1f05c7
+  - enabled: 1
+    path: Assets/@Heewon/Scenes/MainScene.unity
+    guid: 238e9455ced455d45900f718f832feba
+  - enabled: 1
+    path: Assets/@Heewon/Scenes/LobbyScene.unity
+    guid: 36abf6b8c5f57554091b846ebc82d63a
+  - enabled: 1
+    path: Assets/@Heewon/Scenes/GameScene.unity
+    guid: 86cb8de77c46373488db642ccc63c4f1
+  - enabled: 1
+    path: Assets/@Heewon/Scenes/LoadingScene.unity
+    guid: a39c12eb29616224c8a9f5acaab49a3e
+  - enabled: 0
+    path: Assets/@Jongin/Scenes/MainScene.unity
+    guid: f8cc3a2d1ce93454da4e37f34ba23086
+  - enabled: 0
+    path: Assets/@Jongin/Scenes/GameScene.unity
+    guid: d17085c5115b3834fa586a58866da093
+  - enabled: 0
+    path: Assets/@Jongin/Scenes/NetConnectScene.unity
+    guid: 6df7bb36f5b7e014b932927316166e2d
+  - enabled: 0
+    path: Assets/@Doyeon/Scene/LowPolyInterior_Demo_dy.unity
+    guid: 9b93e1a9b098b6549b38a99ee1a56605
+  - enabled: 0
+    path: Assets/@Hyunmin/Scenes/BattleTestScene.unity
+    guid: cc6f7162e37f8bf42a4516b81c449078
+  - enabled: 0
+    path: Assets/@Jongin/Scenes/AddressableTest.unity
+    guid: 2c2cbc1448c8e0343b771d566ff69993
+  - enabled: 0
+    path: Assets/@Yongjun/Scenes/Test2.unity
+    guid: 3f0a50c180ead5741b69351a078a898d
+  - enabled: 0
+    path: Assets/@Heewon/Scenes/KingTestScene.unity
+    guid: 0e2518b4152022448aa684ccbf662d92
+  - enabled: 0
+    path: Assets/@Doyeon/Scene/GameSceneTest.unity
+    guid: a48e83ce1e9f8004cbce13c9ae4e240a
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 235d6a3b3c072854e83353bc74d30bf3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

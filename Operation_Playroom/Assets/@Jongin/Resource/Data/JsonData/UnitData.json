@@ -1,0 +1,32 @@
+{
+  "units": [
+    {
+      "DataId": 201000,
+      "DescriptionTextId": "Knight",
+      "PrefabLabel": "UnitPrefab",
+      "HP": 200.0,
+      "Atk": 40.0
+    },
+    {
+      "DataId": 201001,
+      "DescriptionTextId": "Archer",
+      "PrefabLabel": "UnitPrefab",
+      "HP": 120.0,
+      "Atk": 30.0
+    },
+    {
+      "DataId": 201002,
+      "DescriptionTextId": "King",
+      "PrefabLabel": "UnitPrefab",
+      "HP": 600.0,
+      "Atk": 0.0
+    },
+    {
+      "DataId": 201003,
+      "DescriptionTextId": "KingsKnight",
+      "PrefabLabel": "UnitPrefab",
+      "HP": 80.0,
+      "Atk": 20.0
+    }
+  ]
+}
